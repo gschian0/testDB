@@ -2,27 +2,33 @@
     "posts": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "hello",
+        "entry": "Jambalan Squave Bom Dippity Doo!"
       },
       {
         "id": 2,
-        "title": "world"
+        "title": "world",
+        "entry": "Jambalan Squave Bom Dippity Doo!"
       },
       {
         "id": 3,
-        "title": "dude"
+        "title": "dude",
+        "entry": "Jambalan Squave Bom Dippity Doo!"
       },
       {
         "id": 4,
-        "title": "this"
+        "title": "this",
+        "entry": "Jambalan Squave Bom Dippity Doo!"
       },
       {
         "id": 5,
-        "title": "is"
+        "title": "is",
+        "entry": "Jambalan Squave Bom Dippity Doo!"
       },
       {
         "id": 6,
-        "title": "cool"
+        "title": "cool",
+        "entry": "Jambalan Squave Bom Dippity Doo!"
       }
     ],
     "profile": {
